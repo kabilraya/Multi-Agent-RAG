@@ -3,9 +3,11 @@ from langchain_text_splitters import MarkdownHeaderTextSplitter,TokenTextSplitte
 from fastembed import TextEmbedding, LateInteractionTextEmbedding,SparseTextEmbedding
 from qdrant_client import QdrantClient,models
 import re
-
+"""
+div.PartNumberList_mainOuter__d74Qg
+"""
 # Global Configs
-file_name = "all_mobilebigbyte_feature.md"
+file_name = "info-hukut.md"
 collection_name = "Smartphones Products"
 dense_encoder = TextEmbedding("sentence-transformers/all-MiniLM-L6-v2")
 sparse_encoder = SparseTextEmbedding("Qdrant/bm25")

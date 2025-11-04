@@ -35,8 +35,6 @@ Model: OnePlus Nord 5 5G-12G
 
 URL: https://bigbyte.com.np/oneplus-nord-ce5-5g-2
 
-----End of Product----
-
 # OnePlus Nord 5 5G -(8GB RAM + 256GB Storage)
 
 ₨ 67,800.00
@@ -74,8 +72,6 @@ Model: OnePlus Nord 5 5G
 
 URL: https://bigbyte.com.np/oneplus-nord-5-5g-price-in-nepal
 
-----End of Product----
-
 # OnePlus Nord CE5 5G -(8GB RAM + 256GB Storage)
 
 ₨ 48,800.00
@@ -105,8 +101,6 @@ Model: OnePlus Nord CE5 5G
 
 URL: https://bigbyte.com.np/oneplus-nord-ce5-5g
 
-----End of Product----
-
 # Nothing 3a 12GB RAM 256GB Storage
 
 ₨ 55,800.00
@@ -129,8 +123,6 @@ Official Store | Bigbyte IT World Nepal
 
 URL: https://bigbyte.com.np/nothing-3a-12gb-ram-256gb
 
-----End of Product----
-
 # Nothing 3a 8GB RAM 256GB Storage
 
 ₨ 52,800.00
@@ -151,8 +143,6 @@ Network Support | 5G + Wi-Fi 6 + Bluetooth
 Official Store | Bigbyte IT World Nepal
 
 URL: https://bigbyte.com.np/nothing-3a-8gb-ram-256gb
-
-----End of Product----
 
 # Nothing 3a Pro 8GB RAM 256GB Storage
 
@@ -176,8 +166,6 @@ The Nothing 3a Pro 8GB RAM 256GB in Nepal—a bold device combining speed, beaut
 
 URL: https://bigbyte.com.np/nothing-3a-pro-8gb-ram-256gb
 
-----End of Product----
-
 # Nothing 3a Pro 12GB RAM 256GB Storage
 
 ₨ 62,800.00
@@ -198,8 +186,6 @@ The Nothing 3a Pro 12GB RAM 256GB in Nepal—a bold device combining speed, beau
 **Design** | Transparent back with Glyph Interface
 
 URL: https://bigbyte.com.np/nothing-3a-pro-12gb-ram-256gb
-
-----End of Product----
 
 # OnePlus 13 5G 16-512GB
 
@@ -225,8 +211,6 @@ Model: OnePlus 13 5G 16GB-512GB
 Buy the OnePlus 13 5G 16-512GB at the best price in Nepal from Bigbyte IT World Nepal today!
 
 URL: https://bigbyte.com.np/oneplus-13-5g-16-512gb
-
-----End of Product----
 
 # OnePlus 13R 5G 12GB-256GB
 
@@ -255,8 +239,6 @@ Buy the OnePlus 13R 5G at the best price in Nepal from Bigbyte IT World Nepal to
 
 URL: https://bigbyte.com.np/oneplus-13r-5g-12gb-256gb
 
-----End of Product----
-
 # OnePlus Nord 4 5G 16GB-256GB
 
 ₨ 69,800.00
@@ -284,8 +266,6 @@ At Bigbyte IT World Nepal, we provide genuine OnePlus smartphones with official 
 
 URL: https://bigbyte.com.np/oneplus-nord-4-5g-16gb-256gb
 
-----End of Product----
-
 # OnePlus Nord 4 5G 12GB-256GB
 
 ₨ 63,800.00
@@ -312,8 +292,6 @@ Model: OnePlus Nord 4 5G
 At Bigbyte IT World Nepal, we provide genuine OnePlus smartphones with official warranties and the best deals in Nepal.
 
 URL: https://bigbyte.com.np/oneplus-nord-4-5g-12gb-256gb
-
-----End of Product----
 
 # OnePlus Nord CE 3 Lite 5G 8GB-128GB
 
@@ -345,8 +323,6 @@ At Bigbyte IT World Nepal, we provide genuine OnePlus smartphones with official 
 
 URL: https://bigbyte.com.np/oneplus-nord-ce-3-lite-5g-8gb-128gb
 
-----End of Product----
-
 # OnePlus Nord CE 3 Lite 5G 8GB-256GB
 
 ₨ 34,400.00
@@ -376,8 +352,6 @@ Model: NORD3ceLte
 At Bigbyte IT World Nepal, we provide genuine OnePlus smartphones with official warranties and the best deals in Nepal. Whether you need a fast-performing smartphone for work, gaming, or entertainment, the OnePlus Nord CE 3 Lite 5G is an excellent choice.
 
 URL: https://bigbyte.com.np/oneplus-nord-ce-3-lite-5g-8gb-256gb
-
-----End of Product----
 
 # OnePlus Nord CE 4 Lite 8GB-256GB
 
@@ -409,8 +383,6 @@ Order the OnePlus Nord CE 4 Lite 8GB-256GB from Bigbyte IT World Nepal today and
 
 URL: https://bigbyte.com.np/oneplus-nord-ce-4-lite-8gb-256gb
 
-----End of Product----
-
 # OnePlus N30 SE 4GB-128GB
 
 ₨ 18,800.00
@@ -440,8 +412,6 @@ Model: N30SE
 Order the OnePlus N30 SE 4GB-128GB from Bigbyte IT World Nepal today and enjoy smooth performance, amazing camera quality, and long battery life at an unbeatable price!
 
 URL: https://bigbyte.com.np/oneplus-n30-se-4gb-128gb
-
-----End of Product----
 
 # Samsung Galaxy S25 Ultra 12GB RAM, 256GB Storage
 
@@ -476,8 +446,6 @@ Bigbyte IT World Nepal brings you the Samsung Galaxy S25 Ultra 2025 Model smart 
 
 URL: https://bigbyte.com.np/samsung-galaxy-s25-ultra-256gb
 
-----End of Product----
-
 # Samsung Galaxy A55 5G , 8GB-256GB Storage
 
 ₨ 62,999.00
@@ -509,8 +477,6 @@ Bigbyte IT World Nepal ensures you get the best deals on authentic Samsung smart
 
 URL: https://bigbyte.com.np/samsung-galaxy-a55-5g
 
-----End of Product----
-
 # Samsung Galaxy A35 5G , 8GB-256GB Storage
 
 ₨ 44,999.00
@@ -541,8 +507,6 @@ Model: A35-8G-256G
 Bigbyte IT World Nepal provides the latest technology at unbeatable prices. By choosing the Samsung Galaxy A35 5G from us, you’ll enjoy authentic products, excellent customer service, and special offers tailored to your needs
 
 URL: https://bigbyte.com.np/samsung-galaxy-a35-5g
-
-----End of Product----
 
 # Samsung Galaxy M15 5G, 6GB-128GB Storage
 
@@ -576,8 +540,6 @@ The Samsung Galaxy M15 5G is a dependable smartphone that delivers a perfect ble
 
 URL: https://bigbyte.com.np/samsung-galaxy-m15-5g
 
-----End of Product----
-
 # Samsung Galaxy M14 4G, 6GB – 128GB Storage
 
 ₨ 20,999.00
@@ -608,8 +570,6 @@ Model: M14-6G-12G
 The Samsung Galaxy M14 4G 6GB-128GB storage is a dependable smartphone that delivers a perfect blend of performance, battery life, and camera quality. Whether you’re looking for a device to handle your daily tasks or one that captures stunning photos, the Samsung Galaxy M14 4G 6GB is a budget-friendly is an excellent choice for users in Nepal.
 
 URL: https://bigbyte.com.np/samsung-galaxy-m14-4g-6gb-is-a-budget-friendly
-
-----End of Product----
 
 # Samsung Galaxy M14 4G, 4GB-64GB Storage
 
@@ -642,8 +602,6 @@ The Samsung Galaxy M14 4G is a dependable smartphone that delivers a perfect ble
 
 URL: https://bigbyte.com.np/samsung-galaxy-m14-4g
 
-----End of Product----
-
 # Samsung Galaxy A55 5G 12GB RAM and 256GB Storage
 
 ₨ 67,999.00
@@ -674,8 +632,6 @@ Model: SM-A556BZK
 Choose the Samsung Galaxy A55 5G 12GB memory 256GB storage today from Bigbyte IT World Nepal and enjoy the perfect blend of performance, design, and affordability!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a55
-
-----End of Product----
 
 # Samsung Galaxy A55 5G 8GB RAM and 256GB Storage
 
@@ -708,8 +664,6 @@ Choose the Samsung Galaxy A55 5G 8GB memory 256GB storage today from Bigbyte IT 
 
 URL: https://bigbyte.com.np/samsung-galaxy-a55-5g-with-8gb-of-ram-and-256gb
 
-----End of Product----
-
 # Samsung Galaxy A35 5G 8GB RAM and 256GB Storage
 
 ₨ 51,999.00
@@ -740,8 +694,6 @@ Model: SMA35 5G 8GB 256GB
 Choose the Samsung Galaxy A35 5G 8GB memory 256GB storage today from Bigbyte IT World Nepal and enjoy the perfect blend of performance, design, and affordability!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a35
-
-----End of Product----
 
 # Samsung Galaxy A35 5G 8GB RAM and 128GB Storage
 
@@ -775,8 +727,6 @@ Choose the Samsung Galaxy A35 5G 8GB memory 128GB storage today from Bigbyte IT 
 
 URL: https://bigbyte.com.np/samsung-galaxy-a35-5g-with-8gb-of-ram-and-128gb
 
-----End of Product----
-
 # Samsung Galaxy A25 5G 8GB RAM and 128GB Storage
 
 ₨ 39,999.00
@@ -808,8 +758,6 @@ Model: SMA25 5G 8GB 128GB
 Choose the Samsung Galaxy A25 5G 8GB memory 128GB storage today from Bigbyte IT World Nepal and enjoy the perfect blend of performance, design, and affordability!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a25-5g-8gb-128gb
-
-----End of Product----
 
 # Samsung Galaxy A25 5G 8GB RAM and 256GB Storage
 
@@ -843,8 +791,6 @@ Choose the Samsung Galaxy A25 5G today from Bigbyte IT World Nepal and enjoy the
 
 URL: https://bigbyte.com.np/samsung-galaxy-a25-5g
 
-----End of Product----
-
 # Samsung Galaxy A16 5G 8GB RAM and 256GB Storage
 
 ₨ 34,999.00
@@ -876,8 +822,6 @@ Model: A16 5G 8GB -256G
 Bigbyte IT World Nepal offers the Samsung Galaxy A16 5G with 8GB RAM and 256GB storage , with versatile options to suit every lifestyle. Experience cutting-edge features at an unbeatable value!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a16-5g-6gb-ram-and-128gb-2
-
-----End of Product----
 
 # Samsung Galaxy A16 5G 8GB RAM and 128GB Storage
 
@@ -911,8 +855,6 @@ Bigbyte IT World Nepal offers the Samsung Galaxy A16 5G with 8GB RAM and 128GB s
 
 URL: https://bigbyte.com.np/samsung-galaxy-a16-5g-8gb-ram-and-128gb
 
-----End of Product----
-
 # Samsung Galaxy A16 5G 6GB RAM and 128GB
 
 ₨ 28,999.00
@@ -944,8 +886,6 @@ Model: A16 5G 6GB -128G
 Bigbyte IT World Nepal offers the Samsung Galaxy A16 5G with 6GB RAM and 128GB storage , with versatile options to suit every lifestyle. Experience cutting-edge features at an unbeatable value!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a16-5g-6gb-ram-and-128gb
-
-----End of Product----
 
 # Samsung Galaxy A15 5G 8GB RAM and 256GB Storage
 
@@ -979,8 +919,6 @@ Bigbyte IT World Nepal offers the Samsung Galaxy A15 5G with 8GB RAM and 256GB s
 
 URL: https://bigbyte.com.np/samsung-galaxy-a15-5g
 
-----End of Product----
-
 # Samsung Galaxy A15 5G 8GB RAM and 128GB Storage
 
 ₨ 29,999.00
@@ -1012,8 +950,6 @@ Model: A15 5G 8GB -128G
 Bigbyte IT World Nepal offers the Samsung Galaxy A15 5G with 8GB RAM and 128GB storage , with versatile options to suit every lifestyle. Experience cutting-edge features at an unbeatable value!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a15-5g-8gb-128gb
-
-----End of Product----
 
 # Samsung Galaxy A15 5G 6GB RAM and 128GB Storage
 
@@ -1047,8 +983,6 @@ Bigbyte IT World Nepal offers the Samsung Galaxy A15 5G with 6GB RAM and 128GB s
 
 URL: https://bigbyte.com.np/samsung-galaxy-a15-5g-6gb-128gb
 
-----End of Product----
-
 # Samsung Galaxy A14 5G with 8GB RAM and 128GB storage
 
 ₨ 29,999.00
@@ -1080,8 +1014,6 @@ Model: A14 5G 8GB -128G
 Bigbyte IT World Nepal offers the Samsung Galaxy A14 5G with 8GB RAM and 128GB storage , with versatile options to suit every lifestyle. Experience cutting-edge features at an unbeatable value!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a14-5g-8gb-ram-and-128gb
-
-----End of Product----
 
 # Samsung Galaxy A06 4G LTE (128GB + 6GB)
 
@@ -1115,8 +1047,6 @@ Bigbyte IT World Nepal offers the Samsung Galaxy A06 with 6 GB of RAM and 128 GB
 
 URL: https://bigbyte.com.np/samsung-galaxy-a06
 
-----End of Product----
-
 # Samsung Galaxy A06 4G LTE (128GB + 4GB)
 
 ₨ 17,499.00
@@ -1149,8 +1079,6 @@ Bigbyte IT World Nepal offers the Samsung Galaxy A065F 4GB RAM and 128GB storage
 
 URL: https://bigbyte.com.np/samsung-galaxy-a06-4g-lte-128gb-storage-4gb-ram
 
-----End of Product----
-
 # Samsung Galaxy A06 4G LTE (64GB + 4GB)
 
 ₨ 15,499.00
@@ -1182,8 +1110,6 @@ Model: A065F-64G
 Bigbyte IT World Nepal offers the Samsung Galaxy A065F 4GB RAM and 64GB storage with versatile options to suit every lifestyle. Experience cutting-edge features at an unbeatable value!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a06-4g-lte-64gb-ssd-4gb-ram
-
-----End of Product----
 
 # Samsung Galaxy S25 Ultra 12GB RAM, 512GB Storage
 
@@ -1218,8 +1144,6 @@ Bigbyte IT World Nepal brings you the Samsung Galaxy S25 Ultra 2025 Model smart 
 
 URL: https://bigbyte.com.np/samsung-galaxy-s25-ultra-2025
 
-----End of Product----
-
 # Samsung Galaxy A05 6GB RAM 128GB Storage Smartphone
 
 ₨ 17,999.00
@@ -1252,8 +1176,6 @@ Bigbyte IT World Nepal offers the Samsung Galaxy A05 6GB RAM 128GB storage with 
 
 URL: https://bigbyte.com.np/samsung-galaxy-a05-6gb-ram-128gb-storage-smartphone
 
-----End of Product----
-
 # Samsung Galaxy A05 4GB RAM 64GB Storage Smartphone
 
 ₨ 14,999.00
@@ -1285,8 +1207,6 @@ Model: A055F
 Bigbyte IT World Nepal offers the Samsung Galaxy A05 with versatile options to suit every lifestyle. Experience cutting-edge features at an unbeatable value!
 
 URL: https://bigbyte.com.np/samsung-galaxy-a05-4gb-ram-64gb-storage-smartphone
-
-----End of Product----
 
 # OnePlus Nord CE 3 12GB 256GB
 
@@ -1342,8 +1262,6 @@ Safety Guide.
 
 URL: https://bigbyte.com.np/oneplus-nord-ce-3-12gb-256gb
 
-----End of Product----
-
 # Xiaomi Redmi Note 14 Pro Plus 5G 12GB 512GB
 
 ₨ 54,800.00
@@ -1359,7 +1277,7 @@ Model: Redmi Note 14 Pro Plus 5G 12G/512G
   display fingerprint
   ```
 
-````
+```
 
 **Xiaomi Redmi Note 14 Pro Plus 5G**
   * The Xiaomi Redmi Note 14 Pro Plus 5G is a smartphone model from Xiaomi’s Redmi series, designed for mid-range users. It features 5G connectivity, allowing for faster internet speeds and improved performance. The “Pro+” designation typically indicates enhanced specifications, which may include a more powerful processor, advanced camera capabilities, a high-resolution display, and a larger battery compared to standard models. It is aimed at users who want a balance of performance and affordability.
@@ -1388,297 +1306,5 @@ Mobile Phone / Adapter / USB Type-C Cable / SIM Eject Tool / Protective Case / Q
 Contents in the package may differ across different regions.
 
 URL: https://bigbyte.com.np/xiaomi-redmi-note-14-pro-plus-5g
-
-----End of Product----
-#  Redmi Note 14 Pro Plus 5G 8GB 256GB
-₨ 49,800.00
-Model:  Redmi Note 14 Pro Plus 5G 8GB/256
-**Redmi Note 14 Pro Plus 5G AMOLED display**
-* 6.67″ Crystal Res AMOLED display + 120Hz, Snapdragon® 7s Gen 3 4nm process
-technology, Triple camera, 200 MP main camera + 8MP ultra-wide camera + 2MP
-macro camera, 20Mp selfie camera, massive 5110mAh battery + 120W hyper
-charging, Dual SIM (nano SIM + nano SIM or nano SIM + eSIM) , IP68, Corning®
-Gorilla® Glass Victus® 2 (front), Corning® Gorilla® Glass Victus® 7i (back) , In
-display fingerprint
-**Redmi Note 14 Pro Plus 5G 8GB 256GB**
-  * The Xiaomi Redmi Note 14 Pro Plus 5G is a smartphone model from Xiaomi’s Redmi series, designed for mid-range users. It features 5G connectivity, allowing for faster internet speeds and improved performance. The “Pro+” designation typically indicates enhanced specifications, which may include a more powerful processor, advanced camera capabilities, a high-resolution display, and a larger battery compared to standard models. It is aimed at users who want a balance of performance and affordability.
-
-**Specifications:**
----
-**Processor** | Snapdragon® 7s Gen Octa-core processor, up to 2.5GHz
-**Memory** | 8GB RAM
-**Internal Storage** | 5256GB storage Expandable storage up to 1 TB
-**GPU** | Adreno GPU
-**Display** | 6.67″ CrystalRes AMOLED displayResolution: 2712 x 1220 (1.5K resolution)Refresh rate: Up to 120 Hz Touch sampling rate: Up to 480HzBrightness: 3000nits peak brightnessColor depth: 12bitContrast ratio: 5,000,000:1DCI-P3 wide color gamutCorning® Gorilla® Glass Victus® 2Supports Dolby Vision® Reading mode
-**Rear camera** |  200MP main camera
-OISf/1.6516-in-1 binning into one large 2.24μm pixel1/1.4” sensor size7P lens8MP ultra-wide cameraf/2.22MP macro cameraf/2.4Dynamic shots | Motion tracking focus | Lightning Burst | film frame | Portraits | Document | Night mode | Dual video | Steady video Rear camera video recording4K at 24/30fps1080p at 30/60fps720p at 30fpsSlow motion: 1080p at 120fpsSlow motion: 720p at 120/240fps
-**Front camera** | 20MP front camera/2.2 soft-light ring | AI beautify | Night mode | Portrait mode | Palm Shutter | Selfie timer Front camera video recording1080p at 30/60fps720p at 30fps
-**Audio** | Dual speakers Dolby Atmos® 3.5mm headphone jack
-**Product Color** | Frost Blue, Midnight Black, Lavender Purple
-**Network & Connectivity** | Dual SIM (nano SIM + nano SIM or nano SIM + eSIM)*Use of eSIM requires a wireless service plan. This service plan may be subject to certain restrictions of use on switching service providers and roaming (even after contract expiration). eSIM availability may vary depending on country/region and carrier. For more details, please contact your carrier for more information.2G: GSM: 850 900 1800 1900MHz3G: WCDMA:1/2/4/5/6/8/194G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/664G: LTE TDD:38/40/41/42/485G: n1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78Bluetooth 5.4Wi-Fi: Wi-Fi 6/6E/Wi-Fi 5/Wi-Fi 4/802.11a/b/g
-Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi
-Supports 2×2 MIMO，Wi-Fi Direct
-**Fingerprint Reader** | In-screen fingerprint sensor AI Face Unlock
-**Power Adapter** | 120W turbo charging
-**Battery** | 5110mAh (typ)Supports
-**Operating System** | Xiaomi HyperOS
-**Package content**
-Mobile Phone / Adapter / USB Type-C Cable / SIM Eject Tool / Protective Case / Quick Start Guide and Warranty Card / Safety Information
-Contents in the package may differ across different regions.
-
-URL: https://bigbyte.com.np/redmi-note-14-pro-plus-5g-8gb-256gb
-
-----End of Product----
-#  Redmi Note 14 Pro 5G 12GB 512GB smartphone
-₨ 44,800.00
-Model:  Redmi Note 14 Pro 5G 12GB/512
-**Redmi Note 14 Pro 5G 12GB 512GB smartphone**
-* 6.67″ Crystal Res AMOLED display + 120Hz, Mediatek Dimensity 7300-Ultra 4nm
-process technology, Triple camera, 200 MP main camera + 8MP ultra-wide camera +
-2MP macro camera, 20Mp selfie camera, massive 5110mAh battery + 45W fast
-charging, Dual SIM (nano SIM + nano SIM or nano SIM + eSIM) , IP68, Corning®
-Gorilla® Glass Victus® 2, In-display fingerprint
-**Redmi Note 14 Pro 5G 12GB 512GB smartphone**
-  * The Redmi Note 14 Pro 5G 12GB memory, 512GB storage is a smartphone model from Xiaomi’s Redmi series, known for offering a good balance of features, performance, and affordability. It supports 5G connectivity, enabling faster mobile internet speeds. The “Pro” designation typically indicates enhanced specifications compared to the standard model, which could include a better camera system, an upgraded processor, and more advanced display technology. Redmi devices are popular for their value for money and are aimed at budget-conscious consumers looking for solid performance and features.
-
-**Specifications:**
----
-**Processor** | MediaTek Dimensity 7300-Ultra Octa-core processor, up to 2.5GHz
-**Memory** | 12GB RAM
-**Internal Storage** | 512GB storage Expandable storage up to 1 TB
-**GPU** | Mali-G615 MC2
-**Display** | 6.67″ CrystalRes AMOLED display Resolution: 2712 x 1220 (1.5K resolution)Refresh rate: Up to 120 Hz Touch sampling rate: Up to 480 Hz Brightness: 3000nits peak brightnessColor depth: 12bitContrast ratio: 5,000,000:1DCI-P3 wide color gamutCorning® Gorilla® Glass Victus® 2Supports Dolby Vision® Reading mode
-**Rear camera** |  200MP main cameraOISf/1.6516-in-1 binning into one large 2.24μm pixel1/1.4” sensor size7P lens8MP ultra-wide cameraf/2.22MP macro cameraf/2.4Dynamic shots | Motion tracking focus | Lightning Burst | film frame | Portraits | Document | Night mode | Dual video | Steady video Rear camera video recording4K at 24/30fps1080p at 30/60fps720p at 30fpsSlow motion: 1080p at 120fpsSlow motion: 720p at 120/240fps
-**Front camera** | 20MP front camera/2.2 soft-light ring | AI beautify | Night mode | Portrait mode | Palm Shutter | Selfie timer Front camera video recording1080p at 30/60fps720p at 30fps
-**Audio** | Dual speakers Dolby Atmos® 3.5mm headphone jack
-**Product Color** | Midnight Black, Coral Green, Lavender Purple
-**Network & Connectivity** | Dual SIM (nano SIM + nano SIM or nano SIM + eSIM)*Use of eSIM requires a wireless service plan. This service plan may be subject to certain restrictions of use on switching service providers and roaming (even after contract expiration). eSIM availability may vary depending on country/region and carrier. For more details, please contact your carrier for more information.2G: GSM: 850 900 1800 1900MHz3G: WCDMA:1/2/4/5/6/8/194G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/664G: LTE TDD:38/40/41/42/485G: n1/2/3/5/7/8/20/28/38/40/41/48/66/77/78Bluetooth 5.4Wi-Fi: Wi-Fi 6/Wi-Fi 5/Wi-Fi 4/802.11a/b/g
-Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi
-Supports 1*1 Wi-Fi Direct
-**Fingerprint Reader** | In-screen fingerprint sensor AI Face Unlock
-**Power Adapter** | 43W turbo charging
-**Battery** | 5110mAh (typ)Supports
-**Operating System** | Xiaomi HyperOS
-
-URL: https://bigbyte.com.np/redmi-note-14-pro-5g-12gb-512gb-smartphone
-
-----End of Product----
-#  Redmi Note 14 Pro 5G 8GB 256GB smartphone
-₨ 39,800.00
-Model:  Redmi Note 14 Pro 5G 8GB/256
-**Redmi Note 14 Pro 5G 8GB 256GB smartphone**
-* 6.67″ Crystal Res AMOLED display + 120Hz, Mediatek Dimensity 7300-Ultra 4nm
-process technology, Triple camera, 200 MP main camera + 8MP ultra-wide camera +
-2MP macro camera, 20Mp selfie camera, massive 5110mAh battery + 45W fast
-charging, Dual SIM (nano SIM + nano SIM or nano SIM + eSIM) , IP68, Corning®
-Gorilla® Glass Victus® 2, In-display fingerprint
-**Redmi Note 14 Pro 5G 8GB 256GB smartphone**
-  * The Redmi Note 14 Pro 5G is a smartphone model from Xiaomi’s Redmi series, known for offering a good balance of features, performance, and affordability. It supports 5G connectivity, enabling faster mobile internet speeds. The “Pro” designation typically indicates enhanced specifications compared to the standard model, which could include a better camera system, an upgraded processor, and more advanced display technology. Redmi devices are popular for their value for money and are aimed at budget-conscious consumers looking for solid performance and features
-
-**Specifications:**
----
-**Processor** | MediaTek Dimensity 7300-Ultra Octa-core processor, up to 2.5GHz
-**Memory** | 8GB RAM
-**Internal Storage** | 256GB storage Expandable storage up to 1 TB
-**GPU** | Mali-G615 MC2
-**Display** | 6.67″ CrystalRes AMOLED display Resolution: 2712 x 1220 (1.5K resolution)Refresh rate: Up to 120 Hz Touch sampling rate: Up to 480Hz Brightness: 3000nits peak brightnessColor depth: 12bitContrast ratio: 5,000,000:1DCI-P3 wide color gamutCorning® Gorilla® Glass Victus® 2Supports Dolby Vision® Reading mode
-**Rear camera** |  200MP main cameraOISf/1.6516-in-1 binning into one large 2.24μm pixel1/1.4” sensor size7P lens8MP ultra-wide cameraf/2.22MP macro cameraf/2.4Dynamic shots | Motion tracking focus | Lightning Burst | film frame | Portraits | Document | Night mode | Dual video | Steady video Rear camera video recording4K at 24/30fps1080p at 30/60fps720p at 30fpsSlow motion: 1080p at 120fpsSlow motion: 720p at 120/240fps
-**Front camera** | 20MP front camera/2.2 soft-light ring | AI beautify | Night mode | Portrait mode | Palm Shutter | Selfie timer Front camera video recording1080p at 30/60fps720p at 30fps
-**Audio** | Dual speakers Dolby Atmos® 3.5mm headphone jack
-**Product Color** | Midnight Black, Coral Green, Lavender Purple
-**Network & Connectivity** | Dual SIM (nano SIM + nano SIM or nano SIM + eSIM)*Use of eSIM requires a wireless service plan. This service plan may be subject to certain restrictions of use on switching service providers and roaming (even after contract expiration). eSIM availability may vary depending on country/region and carrier. For more details, please contact your carrier for more information.2G: GSM: 850 900 1800 1900MHz3G: WCDMA:1/2/4/5/6/8/194G: LTE FDD:1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/664G: LTE TDD:38/40/41/42/485G: n1/2/3/5/7/8/20/28/38/40/41/48/66/77/78Bluetooth 5.4Wi-Fi: Wi-Fi 6/Wi-Fi 5/Wi-Fi 4/802.11a/b/g
-Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi
-Supports 1*1 Wi-Fi Direct
-**Fingerprint Reader** | In-screen fingerprint sensor AI Face Unlock
-**Power Adapter** | 43W turbo charging
-**Battery** | 5110mAh (typ)Supports
-**Operating System** | Xiaomi HyperOS
-
-URL: https://bigbyte.com.np/redmi-note-14-pro-5g-8gb-256gb-smartphone
-
-----End of Product----
-#  Redmi Note 14 5G 12GB 512GB
-₨ 35,800.00
-Model:  Redmi Note 14 5g 12GB/512
-**Redmi Note 14 5G 12GB 512GB**
-* 6.67″ AMOLED display+ 120Hz, Mediatek Dimensity 7025-Ultra 6nm process
-technology, Triple camera, 108 MP main camera + 8MP ultra-wide camera + 2MP
-macro camera, 20Mp selfie camera, massive 5110mAh battery + 45W fast charging,
-Hybrid Dual Sim, IP64, Corning® Gorilla® Glass 5, In-display fingerprint
-**Redmi Note 14 5G 12GB 512GB
-**
-  * The Redmi Note 14 5G 12GB memory 512GB storage by Xiaomi, highlighting its impressive specifications, including a powerful Dimensity 7025-Ultra, a 108MP triple-camera system, and a vibrant 6.67″ AMOLED display. It also emphasizes the device’s strong battery performance with a 5110mAh capacity and features like IP54 water resistance and dual speakers with Dolby Atmos for enhanced audio experience. Overall, the Redmi Note 14 combines cutting-edge technology with aesthetic design options, making it a strong contender in the smartphone market. affordable Smart Phone.
-
-**Specifications:**
----
-**Processor** | Dimensity 7025-Ultra Octa-core processor, up to 2.5GHz
-**Memory** | 12 GB RAM
-**Internal Storage** | 512GB storage Expandable storage up to 1TB
-**GPU** | IMG BXM-8-256
-**Display** | 6.67″ AMOLED display Resolution: 2400 × 1080Refresh rate: Up to 120 Hz Touch sampling rate: 240HzBrightness: 1800nits peak brightness Brightness: HBM 1200 nits (typ)Color depth: 8 bit Contrast ratio: 5,000,000:1100% DCI-P3 wide color gamut PPI 394Corning® Gorilla® Glass 5Sunlight display Reading mode
-**Rear camera** |  108MP+2MP+2MP triple camera 108MP main camera0.64μm, 9in1 1.92μmf/1.76P lens1/1.67” sensor size2MP depth camera/2.42MP macro camera/2.4 rear camera video recording 1080p at 60fps 1080p at 30fps720p at 30fps
-**Front camera** | 20MP front camerasensor size 1/4”f/2.24P lens Front camera video recording 1080p at 30fps, 720p at 30fps
-**Audio** | Dual speakers Dolby Atmos® 3.5mm headphone jack
-**Product Color** | Lime Green, Midnight Black, and Ocean Blue
-**Network & Connectivity** | SIM 1 + Hybrid (SIM or microSD) Dual standbySupports 4G/ 3G/ 2G2G: GSM: 850 900 1800 1900 MHz 3G: WCDMA: 1/5/84G: LTE FDD:1/3/5/7/8/20/284G: LTE TDD:38/40/41Wireless NetworksBluetooth Bluetooth 5.3 Wi-Fi Protocol: 802.11a/b/g/n/ac
-Supports 2.4 GHz Wi-Fi | 5GHz Wi-Fi
-Supports Wi-Fi Direct
-**Fingerprint Reader** | In-screen fingerprint sensor AI Face Unlock
-**Power Adapter** | 43W turbo charging
-**Battery** | 5110mAh (typ)Supports
-**Operating System** | Xiaomi HyperOS
-<https://bigbyte.com.np/apple-iphone-15-pro-1tb/>
-
-URL: https://bigbyte.com.np/redmi-note-14-5g-12gb-512gb
-
-----End of Product----
-#  Redmi Note 14 5G 8GB 256GB
-₨ 30,800.00
-Model:  Redmi Note 14 5g 8GB/256
-**Redmi Note 14 5G 8GB 256GB**
-* 6.67″ AMOLED display+ 120Hz, Mediatek Dimensity 7025-Ultra 6nm process
-technology, Triple camera, 108 MP main camera + 8MP ultra-wide camera + 2MP
-macro camera, 20Mp selfie camera, massive 5110mAh battery + 45W fast charging,
-Hybrid Dual Sim, IP64, Corning® Gorilla® Glass 5, In-display fingerprint
-**Redmi Note 14 5G 8GB 256GB
-**
-  * The Redmi Note 14 5G by Xiaomi, highlighting its impressive specifications, including a powerful Dimensity 7025-Ultra, a 108MP triple-camera system, and a vibrant 6.67″ AMOLED display. It also emphasizes the device’s strong battery performance with a 5110mAh capacity and features like IP54 water resistance and dual speakers with Dolby Atmos for enhanced audio experience. Overall, the Redmi Note 14 combines cutting-edge technology with aesthetic design options, making it a strong contender in the smartphone market.
-
-**Specifications:**
----
-**Processor** | Dimensity 7025-Ultra Octa-core processor, up to 2.5GHz
-**Memory** | 8 GB RAM
-**Internal Storage** | 256GB storage Expandable storage up to 1TB
-**GPU** | IMG BXM-8-256
-**Display** | 6.67″ AMOLED display Resolution: 2400 × 1080Refresh rate: Up to 120 Hz Touch sampling rate: 240HzBrightness: 1800nits peak brightness Brightness: HBM 1200 nits (typ)Color depth: 8 bit Contrast ratio: 5,000,000:1100% DCI-P3 wide color gamut PPI 394Corning® Gorilla® Glass 5Sunlight display Reading mode
-**Rear camera** |  108MP+2MP+2MP triple camera 108MP main camera0.64μm, 9in1 1.92μmf/1.76P lens1/1.67” sensor size2MP depth camera/2.42MP macro camera/2.4 rear camera video recording 1080p at 60fps 1080p at 30fps720p at 30fps
-**Front camera** | 20MP front camerasensor size 1/4”f/2.24P lens Front camera video recording 1080p at 30fps, 720p at 30fps
-**Audio** | Dual speakers Dolby Atmos® 3.5mm headphone jack
-**Product Color** | Lime Green, Midnight Black, and Ocean Blue
-**Network & Connectivity** | SIM 1 + Hybrid (SIM or microSD) Dual standbySupports 4G/ 3G/ 2G2G: GSM: 850 900 1800 1900 MHz 3G: WCDMA: 1/5/84G: LTE FDD:1/3/5/7/8/20/284G: LTE TDD:38/40/41Wireless NetworksBluetooth Bluetooth 5.3 Wi-Fi Protocol: 802.11a/b/g/n/ac
-Supports 2.4 GHz Wi-Fi | 5GHz Wi-Fi
-Supports Wi-Fi Direct
-**Fingerprint Reader** | In-screen fingerprint sensor AI Face Unlock
-**Power Adapter** | 43W turbo charging
-**Battery** | 5110mAh (typ)Supports
-**Operating System** | Xiaomi HyperOS
-<https://bigbyte.com.np/apple-iphone-15-pro-1tb/>
-
-URL: https://bigbyte.com.np/redmi-note-14-5g-8gb-256gb
-
-----End of Product----
-#  Redmi Note 14 4G 8GB 256GB
-₨ 26,800.00
-Model:  Redmi Note 14 8GB/256
-**Redmi Note 14 4G 8GB 256GB**
-* 6.67″ AMOLED display+ 120Hz, Mediatek Helio G99-Ultra 6nm process technology,
-Triple camera, 108 MP main camera + 2MP depth camera + 2MP macro camera,
-20MP selfie camera, massive 5500mAh battery + 33W fast charging, Hybrid Dual Sim,
-IP54, Corning® Gorilla® Glass 5, In-display fingerprint
-**Redmi Note 14 4G 8GB 256GB
-**
-  * The Redmi Note 14 by Xiaomi, highlighting its impressive specifications, including a powerful Helio G99 processor, a 108MP triple-camera system, and a vibrant 6.67″ AMOLED display. It also emphasizes the device’s strong battery performance with a 5500mAh capacity and features like IP54 water resistance and dual speakers with Dolby Atmos for enhanced audio experience. Overall, the Redmi Note 14 combines cutting-edge technology with aesthetic design options, making it a strong contender in the smartphone market.
-
-**Specifications:**
----
-**Processor** | Helio G99-Ultra Octa-core processor, up to 2.2GHz
-**Memory** | 8 GB RAM
-**Internal Storage** | 256GB storage Expandable storage up to 1TB
-**GPU** | Mali-G57 MC2
-**Display** | 6.67″ AMOLED display Resolution: 2400 × 1080Refresh rate: Up to 120HzTouch sampling rate: 240HzBrightness: 1800nits peak brightness Brightness: HBM 1200 nits (typ)Color depth: 8 bit Contrast ratio: 5,000,000:1100% DCI-P3 wide color gamut PPI 394Corning® Gorilla® Glass 5Sunlight display Reading mode
-**Rear camera** |  108MP+2MP+2MP triple camera 108MP main camera0.64μm, 9in1 1.92μmf/1.76P lens1/1.67” sensor size2MP depth camera/2.42MP macro camera/2.4 rear camera video recording 1080p at 60fps 1080p at 30fps720p at 30fps
-**Front camera** | 20MP front camerasensor size 1/4”f/2.24P lens Front camera video recording 1080p at 30fps, 720p at 30fps
-**Audio** | Dual speakers Dolby Atmos®3.5mm headphone jack
-**Product Color** | Lime Green, Midnight Black, Ocean Blue
-**Network & Connectivity** | SIM 1 + Hybrid (SIM or microSD) Dual standbySupports 4G/ 3G/ 2G2G: GSM: 850 900 1800 1900 MHz 3G: WCDMA: 1/5/84G: LTE FDD:1/3/5/7/8/20/284G: LTE TDD:38/40/41Wireless NetworksBluetooth Bluetooth 5.3 Wi-Fi Protocol: 802.11a/b/g/n/ac
-Supports 2.4GHz Wi-Fi | 5GHz Wi-Fi
-Supports Wi-Fi Direct
-**Fingerprint Reader** | In-screen fingerprint sensor AI Face Unlock
-**Power Adapter** | 33W turbo charging
-**Battery** | 5500mAh (typ)Supports
-**Operating System** | Xiaomi HyperOS
-<https://bigbyte.com.np/apple-iphone-15-pro-1tb/>
-
-URL: https://bigbyte.com.np/redmi-note-14-4g-8gb-256gb
-
-----End of Product----
-#  Google Pixel 8 Pro 512GB
-₨ 154,800.00
-Model:  GA04921-GB
-**Google Pixel 8 Pro 512GB**
-* ```
-Google Pixel 8 Pro
-Dual SIM (single nano-SIM and eSIM19)
-Google Tensor G3 Titan M2 security coprocessor
-12 GB LPDDR5X RAM
-512 GB UFS 3.1 storage
-6.7-inch Super Actua display, 120 Hz Up to 1600 nits (HDR) and up to 2400 nits
-12 GB LPDDR5X RAM
-Titan M2 chip & security core
-Fingerprint Unlock
-Face Unlock
-VPN by Google One
-Wi-Fi 7 (802.11be) with 2.4 GHz + 5 GHz + 6 GHz, 2x2+2x2 MIMO
-Bluetooth® v5.3 with dual antennas for enhanced quality and connection
-Ultra-wideband chip for accurate ranging and spatial orientation
-NFC
-1 m USB-C® to USB-C® cable (USB 2.0)
-Quick Switch adaptor
-SIM tool
-Google Cast
-1 Year Warranty
-
-````
-
-**Google Pixel 8 Pro 512GB**
-
-- The Google Pixel 8 Pro 512GB is the pinnacle of smartphone innovation for 2024, featuring a sleek design, a stunning 6.7-inch OLED display, and a powerful Google Tensor G3 processor. With its advanced triple-lens camera system, capturing high-quality photos and videos is effortless. The 512GB storage provides ample space for all your apps and media, while the 5000mAh battery ensures long-lasting performance. Enhanced with AI-driven features and running on the latest Android 14, the Pixel 8 Pro 512GB offers an unparalleled mobile experience, making it the best smartphone choice of the year.
-
-**Specifications:**
-
----
-
-**Processor** | Google Tensor G3 Titan M2 security coprocessor  
-**Memory** | 12 GB LPDDR5X RAM  
-**Internal Storage** | 512 GB UFS 3.1 storage  
-**GPU** | Tensor G3  
-**Display** | 6.7-inch Full-screen (170 mm) display  
-Super Actua display (1344 x 2992) LTPO OLED at 489 PPI, 120 Hz  
-20:9 aspect ratio Up to 1600 nits (HDR) and up to 2400 nits (peak brightness)  
-Scratch-resistant Corning® Gorilla® Glass Victus® 2 cover glass  
-**Rear camera** | **50 MP Octa PD wide camera** ƒ/1.68 aperture Multi-zone LDAF (laser detect auto focus) sensor Optical + electronic image stabilization on wide and telephoto 82° field of view13 1.2 μm pixel width  
-**Front camera** | 10.5 MP dual-PD selfie camera  
-ƒ/2.2 aperture  
-Autofocus  
-95° ultrawide field of view13  
-1.22 μm pixel width  
-**Audio** | Stereo speakers Three microphones Noise suppression Spatial audio  
-**Product Color** | Obsidian  
-**Connectivity** | Wi-Fi 7 (802.11be) with 2.4 GHz + 5 GHz + 6 GHz, 2×2+2×2 MIMO  
-Bluetooth® v5.3 with dual antennas for enhanced quality and connection  
-Ultra-wideband chip for accurate ranging and spatial orientation21  
-NFC  
-1 m USB-C® to USB-C® cable (USB 2.0)  
-Quick Switch adaptor  
-SIM tool  
-Google Cast  
-Dual-band GNSS  
-GPS, GLONASS, Galileo, QZSS, BeiDou  
-**Fingerprint Reader** | Fingerprint Unlock with under-display fingerprint sensor  
-Face Unlock  
-Pattern, PIN, and password  
-**Power Adapter** | X  
-**Battery** | 5050 mAh20  
-24+ hour battery life  
-Up to 72 hours with Extreme Battery Saver  
-Fast wireless charging  
-Battery Share  
-**Operating System** | Android
-
-- The Google Pixel 8 Pro 512GB is a powerhouse of innovation, offering a perfect blend of design, performance, and advanced features. Whether you’re a photography enthusiast, a power user, or someone who simply wants the best smartphone experience, the Pixel 8 Pro is designed to meet and exceed your expectations. With its state-of-the-art camera system, robust performance, and intelligent software, it stands out as the ultimate smartphone choice for 2024.
-
-<https://bigbyte.com.np/apple-iphone-15-pro-1tb/>
-
-URL: https://bigbyte.com.np/google-pixel-8-pro-512gb
-
-----End of Product----
+===============================================================================
+```
