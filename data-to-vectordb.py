@@ -5,7 +5,7 @@ from qdrant_client import QdrantClient,models
 import re
 
 # Global Configs
-file_name = "gadget-byte-laptop.md"
+file_name = "all_mobilebigbyte_feature.md"
 collection_name = "Smartphones Products"
 dense_encoder = TextEmbedding("sentence-transformers/all-MiniLM-L6-v2")
 sparse_encoder = SparseTextEmbedding("Qdrant/bm25")

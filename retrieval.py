@@ -73,4 +73,4 @@ def retrieve_relevant_documents(query):
     # return all_chunks
 
     
-retrieve_relevant_documents("Amoled")
+retrieve_relevant_documents("Samsung")
