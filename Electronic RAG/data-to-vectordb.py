@@ -3,9 +3,7 @@ from langchain_text_splitters import MarkdownHeaderTextSplitter,TokenTextSplitte
 from fastembed import TextEmbedding, LateInteractionTextEmbedding,SparseTextEmbedding
 from qdrant_client import QdrantClient,models
 import re
-"""
-div.PartNumberList_mainOuter__d74Qg
-"""
+
 # Global Configs
 file_name = "info-hukut.md"
 collection_name = "Smartphones Products"
