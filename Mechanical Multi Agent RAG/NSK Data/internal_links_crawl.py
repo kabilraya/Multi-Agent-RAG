@@ -56,6 +56,8 @@ async def internal_links_extraction():
             print(next_button)
             for link in result.links["internal"]:
                 url = link.get("href")
+                if "?p=" in url:
+                    continue
                 if url not in internal_links:
                     internal_links.append(url)
             page_number +=1
@@ -67,8 +69,9 @@ async def internal_links_extraction():
         with open("internal_links_nsk.txt","a",encoding="utf-8") as f:
             for internal_link in internal_links:
                 f.write(f"{internal_link}\n")
+    return internal_links
 
-asyncio.run(internal_links_extraction())
+
 
 
         
