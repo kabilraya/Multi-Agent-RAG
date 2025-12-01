@@ -94,7 +94,30 @@ def scrolling_function():
     product_number_nsk = res_nsk[0].payload.get("chunk_id")
     total_nsk = product_number_nsk + 1
 
-    return {"total_nsk":total_nsk, "total_misumi":total_misumi}
+    facet_response_misumi = client.facet(
+    collection_name="Misumi Bearing Nuts",
+    key="sub-category",
+    exact = True,
+    limit=100
+    )
+
+    result_misumi = {hit.value: hit.count for hit in facet_response_misumi.hits}
+
+    facet_response_nsk = client.facet(
+    collection_name="NSK Bearing Nuts",
+    key="sub-category",
+    exact = True,
+    limit=150
+    )
+
+    result_nsk = {hit.value: hit.count for hit in facet_response_nsk.hits}
+
+    return {
+        "total_misumi": total_misumi,
+        "total_nsk": total_nsk,
+        "misumi_subcategories": result_misumi,
+        "nsk_subcategories": result_nsk
+    }
 
 SelfDescriptionAgent = LlmAgent(
     name = "self_description_agent",
@@ -111,6 +134,8 @@ SelfDescriptionAgent = LlmAgent(
     Here are the list of your capabilities,
     1. I can use vector database collections to search for mechanical parts(known as part numbers) and their dimensions.
     2. I can count the number of mechanical parts or products I have from the database.
+
+    **Generate a more generic answer based on the capabilities and the example provided**
     """,
     output_key= "self_description_answers"
 )
@@ -130,12 +155,24 @@ PartNumberAgent = LlmAgent(
     2. Analyse the list of retrieved docs and generate the proper table format.
     3. Analyse the retrieved documents and see if the schema is different. The retrieved documents are a single row in "Part Number Name: value 1 | Price: value 2 | ... |".
     4. The retrieved documents can have different schema. So, if it is different you MUST divide the table and mention the **sub-category** field on top of each table generated.
-    5. **Always use all the retrieved documents. Do not miss out on any of them.**
+    5. If the user's query is specific about a Part Number (e.g. `C-AN00`) then list out only that product in a table. Leave out all other retrieved products.
+    6. If the user's query is not a specific part number (e.g. "List out different `bearing lock nuts`" or "bearing lock nuts an type"), then list out all the retrieved products in tables.
+    
 
     ### Queries about the number of part numbers available (e.g. "How many part-numbers are available", "How many subcategories are there in Bearing lock nuts.")
     1. First you MUST call the tool "scrolling_function" to get the number of products availbale.
-    2. It returns two numbers. You MUST ONLY generate the numbers retrieved. (e.g. "There are 107 subcategories in Misumi","There are 10 subcategories in NSK"). Here the numbers mentioned are just random. You MUST use the retrieved numbers from the tool.
-    3. Just generate a raw text mentioning the number of sub categories.
+    The tool returns:
+    - total_misumi
+    - total_nsk
+    - misumi_subcategories (dict)
+    - nsk_subcategories (dict)
+
+    **You MUST:**
+    - Display the totals clearly
+    - Convert each dictionary into a clean table with two columns: `(Sub-category, Part Numbers)`
+    **| Sub-category | Count |**
+    - At the bottom of each table, write: "Total sub-categories = value from the function (e.g. total_misumi or total_nsk)".
+    3. Just generate a raw text mentioning the number of sub categories. **ONLY USE THE VALUES RETURNED FROM THE FUNCTION CALL.**
     """,
     tools=[scrolling_function, retrieval],
     output_key= "part_number_answers"
@@ -151,6 +188,8 @@ DefaultAgent = LlmAgent(
     #Examples
     User: Who is the president of Nepal.
     Agent: I can answer questions only related to mechanical parts.
+
+    **Don't just use the example to generate the answer. Create different sentences that refers to saying "I cannot perform the given task".**
     """,
     output_key="default_answers"
 
