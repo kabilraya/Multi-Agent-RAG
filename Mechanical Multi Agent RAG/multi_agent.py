@@ -12,6 +12,8 @@ from qdrant_client import QdrantClient,models
 import uuid
 import asyncio
 
+
+
 collection_name_misumi = "Misumi Bearing Nuts"
 collection_name_nsk = "NSK Bearing Nuts"
 
@@ -157,7 +159,8 @@ PartNumberAgent = LlmAgent(
     4. The retrieved documents can have different schema. So, if it is different you MUST divide the table and mention the **sub-category** field on top of each table generated.
     5. If the user's query is specific about a Part Number (e.g. `C-AN00`) then list out only that product in a table. Leave out all other retrieved products.
     6. If the user's query is not a specific part number (e.g. "List out different `bearing lock nuts`" or "bearing lock nuts an type"), then list out all the retrieved products in tables.
-    
+    7. **Do not miss any "attribute_name | value" pair from the retrieved documents in the table.**
+    8. URL are must for each product in the table.
 
     ### Queries about the number of part numbers available (e.g. "How many part-numbers are available", "How many subcategories are there in Bearing lock nuts.")
     1. First you MUST call the tool "scrolling_function" to get the number of products availbale.
@@ -168,11 +171,20 @@ PartNumberAgent = LlmAgent(
     - nsk_subcategories (dict)
 
     **You MUST:**
-    - Display the totals clearly
+    #### If the user is not asking for a specific website (e.g. `Misumi` or `NSK`) then just display every returned values in proper format.
+    - Display for both the websites.
+
+    #### If the user is asking about the specific website i.e. either "Misumi" or "NSK".
+    - Then just use the returned values for that specific website (e.g. If the user specifies "Misumi" then display the `total_misumi` and `misumi_subcategories`)
+    - Display them in proper format using tables and raw text.
+
+    2. Display the totals clearly
     - Convert each dictionary into a clean table with two columns: `(Sub-category, Part Numbers)`
     **| Sub-category | Count |**
     - At the bottom of each table, write: "Total sub-categories = value from the function (e.g. total_misumi or total_nsk)".
+    
     3. Just generate a raw text mentioning the number of sub categories. **ONLY USE THE VALUES RETURNED FROM THE FUNCTION CALL.**
+    4. Always display the total and the subcategories table. Don't just display one of them.
     """,
     tools=[scrolling_function, retrieval],
     output_key= "part_number_answers"
