@@ -3,7 +3,7 @@ from fastembed import TextEmbedding
 import os
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-file_name = os.path.abspath(os.path.join(current_dir,"..","test_logs","payload_score_logs"))
+file_name = os.path.abspath(os.path.join(current_dir,"..","test_logs","payload_score_logs.txt"))
 collection_name = "Dense Only NSK"
 client = QdrantClient(url="http://localhost:6333")
 dense_encoder = TextEmbedding("sentence-transformers/all-MiniLM-L6-v2")
@@ -14,7 +14,7 @@ def retrieval(query):
         collection_name=collection_name,
         using="dense",
         query = dense_embed,
-        limit = 5,
+        limit = 10,
         with_payload=True,
         with_vectors=False
     ).points
