@@ -20,12 +20,12 @@ def retrieval(query):
         models.Prefetch(
             query = dense_embed,
             using = "dense",
-            limit = 80
+            limit = 40
         ),
         models.Prefetch(
             query = models.SparseVector(**sparse_embed.as_object()),
             using = "sparse",
-            limit=80
+            limit=40
         )
     ]
     points = client.query_points(
@@ -33,7 +33,7 @@ def retrieval(query):
         prefetch=prefetch,
         using = "lateinteract",
         query = late_embed,
-        limit = 40,
+        limit = 20,
         with_payload=True,
         with_vectors=True
     ).points

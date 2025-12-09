@@ -20,12 +20,12 @@ def retrieval(query):
         models.Prefetch(
             query=dense_query,
             using="dense",
-            limit=80,
+            limit=40,
         ),
         models.Prefetch(
             query=models.SparseVector(**sparse_query.as_object()),
             using = "sparse",
-            limit = 80,
+            limit = 40,
         )
     ]
 
@@ -34,7 +34,7 @@ def retrieval(query):
         query=late_query,
         using= "lateinteract",
         prefetch=prefetch,
-        limit = 30,
+        limit = 20,
         with_payload = True,
         with_vectors=False,
 

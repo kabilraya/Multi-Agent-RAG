@@ -12,7 +12,7 @@ from qdrant_client import QdrantClient,models
 import uuid
 import asyncio
 import ollama
-
+import json
 
 collection_name_misumi = "Misumi Bearing Nuts"
 collection_name_nsk = "NSK Bearing Nuts"
@@ -56,7 +56,7 @@ def retrieval(base_query):
     all_products.append(misumi_products)
     all_products.append(nsk_products)
 
-    return all_products
+    return json.dumps(all_products)
 
 def scrolling_function():
     """
@@ -114,12 +114,14 @@ def scrolling_function():
 
     result_nsk = {hit.value: hit.count for hit in facet_response_nsk.hits}
 
-    return {
+    data =  {
         "total_misumi": total_misumi,
         "total_nsk": total_nsk,
         "misumi_subcategories": result_misumi,
         "nsk_subcategories": result_nsk
     }
+
+    return json.dumps(data)
 
 def format_final_response(raw_response: str, author: str, original_query: str) -> str:
     """
@@ -146,7 +148,7 @@ def format_final_response(raw_response: str, author: str, original_query: str) -
         try:
             # Call the local Ollama model ONLY for this agent
             response = ollama_client.chat(
-                model='gemma:2b',
+                model='gemma3:4b-it-qat',
                 messages=[{'role': 'user', 'content': prompt}],
             )
             return response['message']['content']
@@ -191,27 +193,16 @@ PartNumberAgent = LlmAgent(
 
     ### Queries about the part numbers (e.g. "List out different `bearing lock nuts`", "Tell me about `C-AN00`")
     1. First you MUST call the tool "retrieval" to retrieve the  relevent documents from the user query.
-    2. **PRIMARY LOGIC GATE:** After retrieving the documents, you must perform this check before doing anything else. Analyze the user's original query (e.g., "BNBSS25"). Is this query an **exact, case-insensitive, full-string match** for the value in the `Part Number Name` or `product_name` field of any of the documents you just retrieved?
-
-    ---
+    2. **PRIMARY LOGIC GATE:** After retrieving the documents.
+    3. Analyze the user's original query (e.g., "BNBSS25"). Is this query an **exact, case-insensitive, full-string match** for the value in the `Part Number Name` or `product_name` field of any of the documents you just retrieved?
     #### **SCENARIO A: If the answer to the check is YES (An exact match was found)**
+    -   You are now in **"Specific Item Mode"**. Your ONLY goal is to return the single item that was matched.
 
-    -   You are now in **"Specific Item Mode"**. Your ONLY goal is to display the single item that was matched.
-    -   You MUST **immediately discard all other documents** from the retrieved list.
-    -   You MUST **IGNORE ALL INSTRUCTIONS from SCENARIO B**. Do not group tables, do not display multiple products.
-    -   Your final output for the user MUST be a single table containing all the details for that one, and only one, product. Include the URL.
-    -   Discard all other retrieved documents and keep only the matching ones.
     ---
     #### **SCENARIO B: If the answer to the check is NO (The query is a general category)**
 
-    -   You are now in **"General List Mode"**. Your goal is to display all the items retrieved by the tool.
-    -   Display ALL the products you have retrieved.
-    -   Follow these formatting rules:
-        -   Analyze the retrieved documents to see if the schema is different.
-        -   **DO NOT MISS any "attribute_name | value" pair from the retrieved documents in the tables.**
-        -   **If schemas are different, you MUST divide the output into multiple tables and use the `sub-category` as a heading for each table.**
-        -   The URL is mandatory for each product in the table.
-
+    -   You are now in **"General List Mode"**. Your goal is to return all the items retrieved by the tool.
+    
     ### Queries about the number of part numbers available (e.g. "How many products are available", "How many subcategories are there in Bearing lock nuts.")
     1. First you MUST call the tool "scrolling_function" to get the number of products availbale.
     The tool returns:
@@ -222,19 +213,10 @@ PartNumberAgent = LlmAgent(
 
     **You MUST:**
     #### If the user is not asking for a specific website (e.g. `Misumi` or `NSK`) then just display every returned values in proper format.
-    - Display for both the websites.
+    - Return for both the websites.
 
     #### If the user is asking about the specific website i.e. either "Misumi" or "NSK".
-    - Then just use the returned values for that specific website (e.g. If the user specifies "Misumi" then display the `total_misumi` and `misumi_subcategories`)
-    - Display them in proper format using tables and raw text.
-
-    2. Display the totals clearly
-    - Convert each dictionary into a clean table with two columns: `(Sub-category, Part Numbers)`
-    **| Sub-category | Count |**
-    - At the bottom of each table, write: "Total sub-categories = value from the function (e.g. total_misumi or total_nsk)".
-    
-    3. Just generate a raw text mentioning the number of sub categories. **ONLY USE THE VALUES RETURNED FROM THE FUNCTION CALL.**
-    4. Always display the total and the subcategories table. Don't just display one of them.
+    -Return for just that website.
     """,
     tools=[scrolling_function, retrieval],
     output_key= "part_number_answers"
@@ -288,7 +270,8 @@ async def chat_with_agent(query):
         print(event)
         if event.is_final_response():
             final_response = event.content.parts[0].text
-            return final_response
+            response_author = event.author
+            
 
 
 
