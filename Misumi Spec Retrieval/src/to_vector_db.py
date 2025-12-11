@@ -7,7 +7,7 @@ import time
 
 collection_name = "Test Misumi"
 current_dir = os.path.dirname(os.path.abspath(__file__))
-file_name = os.path.abspath(os.path.join(current_dir,"..","data","bearing_lock_nuts_square.xlsx"))
+file_name = os.path.abspath(os.path.join(current_dir,"..","data","washer_for_rolling_bearings_retaining_and_tightening_washer_series_awl.xlsx"))
 
 dense_encoder = TextEmbedding("sentence-transformers/all-MiniLM-L6-v2")
 sparse_encoder = SparseTextEmbedding("Qdrant/bm25")
