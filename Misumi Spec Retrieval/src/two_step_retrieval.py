@@ -35,6 +35,7 @@ def retrieve_similar_part_numbers(user_query):
     for p in parts:
         if ":" in p:
             cleaned_spec.append(p.strip())
+    cleaned_spec.append(specification)
     for spec in cleaned_spec:
         dense_embed = next(dense_encoder.query_embed(spec))
         sparse_embed = next(sparse_encoder.query_embed(spec))
@@ -44,17 +45,17 @@ def retrieve_similar_part_numbers(user_query):
             models.Prefetch(
                 query = dense_embed,
                 limit = 40,
-                using = "dense"
+                using = "dense_spec"
             ),
             models.Prefetch(
                 query = models.SparseVector(**sparse_embed.as_object()),
                 limit = 40,
-                using = "sparse"
+                using = "sparse_spec"
             )
         ]
         points = client.query_points(
             collection_name=collection_name,
-            using = "lateinteract",
+            using = "lateinteract_spec",
             limit = 10,
             prefetch=prefetch,
             query=late_embed
@@ -71,7 +72,7 @@ def retrieve_similar_part_numbers(user_query):
 
 
 def main():
-    user_query = "E-BNRS8"
+    user_query = "AWL24"
     part_number_dict = retrieve_similar_part_numbers(user_query=user_query)
     print(part_number_dict)
 
