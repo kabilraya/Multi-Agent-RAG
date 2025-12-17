@@ -34,10 +34,25 @@ def create_collection_with_payloads():
                         comparator=models.MultiVectorComparator.MAX_SIM,
                     ),
                     hnsw_config=models.HnswConfigDiff(m=0)
-                )
+                ),
+                "dense_spec" : models.VectorParams(
+                    size = dense_encoder.embedding_size,
+                    distance = models.Distance.COSINE
+                ),
+                "lateinteract_spec" : models.VectorParams(
+                    size= late_encoder.embedding_size,
+                    distance=models.Distance.COSINE,
+                    multivector_config=models.MultiVectorConfig(
+                        comparator=models.MultiVectorComparator.MAX_SIM,
+                    ),
+                    hnsw_config=models.HnswConfigDiff(m=0)
+                ),
             
             },
-            sparse_vectors_config={"sparse": models.SparseVectorParams(modifier=models.Modifier.IDF)}
+            
+            sparse_vectors_config={"sparse": models.SparseVectorParams(modifier=models.Modifier.IDF),
+                                "sparse_spec": models.SparseVectorParams(modifier=models.Modifier.IDF)
+                                }
         
         )
     client.create_payload_index(
@@ -178,7 +193,10 @@ def to_vectordb():
                     vector={
                         "dense" : list(dense_encoder.embed(info_for_embedding))[0],
                         "sparse" : list(sparse_encoder.embed(info_for_embedding))[0].as_object(),
-                        "lateinteract" : list(late_encoder.embed(info_for_embedding))[0]
+                        "lateinteract" : list(late_encoder.embed(info_for_embedding))[0],
+                        "dense_spec" : list(dense_encoder.embed(row["specification"]))[0],
+                        "sparse_spec" : list(sparse_encoder.embed(row["specification"]))[0].as_object(),
+                        "lateinteract_spec" : list(late_encoder.embed(row["specification"]))[0]
                     }
                 )
             ]

@@ -55,7 +55,7 @@ def retrieve_similar_part_numbers(user_query):
         ]
         points = client.query_points(
             collection_name=collection_name,
-            using = "lateinteract_spec",
+            using = "lateinteract",
             limit = 10,
             prefetch=prefetch,
             query=late_embed
